@@ -1,5 +1,0 @@
-site_name: Pyds9plugin documentation
-site_url: https://thopico.github.io
-nav:
-    - Documentation: index.md
-    - About: about.md
